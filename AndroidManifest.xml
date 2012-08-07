@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.p"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <application
+        android:icon="@drawable/im13"
+        android:label="@string/myphoto" >
+        <activity
+            android:name=".NimActivity"
+            android:label="@string/myphoto" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".DwjhActivity" >
+        </activity>
+        <activity android:name=".Tuotu" >
+        </activity>
+        <activity android:name=".PptActivity" >
+        </activity>
+        <activity android:name=".CdActivity" >
+        </activity>
+        <activity android:name=".A" >
+        </activity>
+        <activity android:name=".B" >
+        </activity>
+        <activity android:name=".C" >
+        </activity>
+        <activity android:name=".D" >
+        </activity>
+        <activity android:name=".E" >
+        </activity>
+        <activity android:name=".F" >
+        </activity>
+        <activity android:name=".G" >
+        </activity>
+        <activity android:name=".H" >
+        </activity>
+        <activity android:name=".I" >
+        </activity>
+        <activity android:name=".J" >
+        </activity>
+        <activity
+            android:name=".MyphActivity">          
+        </activity>
+           <activity
+            android:name=".CoverFlow">          
+        </activity>
+         <activity android:name=".CoverFlowExample" >
+        </activity>
+    </application>
+
+</manifest>

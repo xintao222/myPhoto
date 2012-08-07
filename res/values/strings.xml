@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, MyphActivity!</string>
+    <string name="app_name">Myph</string>
+    <string name="myphoto">my photo</string>
+    <string name="tu">带我走！</string>
+
+</resources>
